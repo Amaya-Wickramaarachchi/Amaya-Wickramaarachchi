@@ -1,6 +1,7 @@
-Here's an enhanced and modernized version of your `README.md`, complete with animations, charts, and a creative layout using markdown:
+<div align="center">
+  <img src="https://svgtext.app/svg?text=Amaya%20Wickramaarachchi&fontSize=36&color=%236f0936&animation=fadeIn" alt="Amaya Wickramaarachchi Animation" />
+</div>
 
----
 
 # Hello, World! 👋  
 I’m **Amaya Wickramaarachchi**, an enthusiastic undergraduate pursuing a **Bachelor's in Information Technology (BIT Hons)** with a focus on **Networking and Mobile Computing**. 🌟  
