@@ -42,7 +42,6 @@
   <code><img width="70px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="70px" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="70px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="70px" src="https://www.vectorlogo.zone/logos/netlifyapp_watermelon/netlifyapp_watermelon-ar21.svg"></code>
 </div>
 
 ---
