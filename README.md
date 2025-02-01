@@ -49,13 +49,13 @@
 ## 🖥️ My Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaya-wickramaarachchi&show_icons=true&theme=tokyonight" width="400px" alt="Amaya's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaya-wickramaarachchi&show_icons=true&theme=tokyonight" width="500px" alt="Amaya's GitHub Stats">
 </div>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=amaya-wickramaarachchi&theme=dracula" width="400px" alt="Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=amaya-wickramaarachchi&theme=dracula" width="500px" alt="Trophies">
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaya-wickramaarachchi&theme=tokyonight" width="400px" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaya-wickramaarachchi&theme=tokyonight" width="500px" alt="Streak Stats">
 </div>
 
 ---
