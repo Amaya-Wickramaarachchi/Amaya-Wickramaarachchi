@@ -1,100 +1,204 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-<h2 align="center">
-  I'm <span style="color:#6f0936">Amaya Wickramaarachchi</span> 🚀<br>
-  <img src="https://img.shields.io/badge/Networking%20%26%20Mobile%20Computing-Explorer-6f0936?style=flat-square"/>
-</h2>
+# 👋 Hey, I'm Amaya Wickramaarachchi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=900&center=true&width=900&lines=Aspiring+IT+Professional;Focused+on+Networking+%26+Mobile+Computing;Continuous+Learner+%F0%9F%92%AD;Open+to+Collaborations+%F0%9F%91%8B;UI%2FUX+Creative+%F0%9F%8E%A8;Problem+Solver+%E2%9A%A1%EF%B8%8F;Let%E2%80%99s+Build+the+Future+Together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Networking+%26+Mobile+Computing+Undergraduate;Exploring+Software+Development;IoT+%7C+Cloud+%7C+Mobile+Technology;Quality+Assurance+%26+Problem+Solving;Always+Learning.+Always+Building." alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/amaya-wickramaarachchi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/amaya-wickramaarachchi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amaya.wickramaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dev.to/amaya-wickramaarachchi">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600px" alt="Coding GIF"/>
-</div>
+## `$ whoami`
+
+```text
+Name       : Amaya Wickramaarachchi
+Education  : BIT (Hons.) in Networking & Mobile Computing
+Interests  : Software Development, Networking, IoT & Cloud
+Focus      : Learning, building and solving real-world problems
+Location   : Sri Lanka 🇱🇰
+```
+
+I'm an IT undergraduate passionate about exploring technology and building practical solutions. My interests span software development, computer networking, mobile applications, IoT systems, and quality assurance.
+
+I enjoy understanding how systems work, experimenting with new tools, and turning ideas into useful digital experiences.
+
+- 🎓 Studying **Networking & Mobile Computing**
+- 💻 Exploring software and mobile application development
+- 🌐 Interested in networking, connected systems, and cloud technologies
+- 🧪 Experienced in software testing and quality assurance through my internship
+- 🌱 Developing **SmartGreen**, an IoT-based greenhouse management project
+- 🤝 Open to learning, collaboration, and interesting technology projects
 
 ---
 
-## 🌟 About Me  
+## 🧰 Tech Stack & Technologies
 
-- 🎓 **BIT (Hons) Undergraduate** — Specializing in **Networking & Mobile Computing**
-- 🌐 **Networking Enthusiast** — Exploring protocols & securing connections
-- 📱 **Mobile Computing Devotee** — Building seamless mobile solutions
-- 🎨 **UI/UX Explorer** — Passionate about creative and intuitive designs
-- 💬 **Tech Blogger** — [Check out my articles!](https://dev.to/amaya-wickramaarachchi) <!-- Add your blog link if available -->
-- 🤝 **Community Contributor** — Love to help, collaborate, and learn together
-- 🚀 **Lifelong Learner** — Always exploring new tools and trends in tech
+### 💻 Programming & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,dart,js,html,css&theme=dark" alt="Programming languages and web technologies" />
+</p>
+
+### 📱 Mobile & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,vscode&theme=dark" alt="Mobile development tools" />
+</p>
+
+### 🌐 Networking, IoT & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,azure,arduino,git,github&theme=dark" alt="Systems and development tools" />
+</p>
+
+**Areas I'm exploring:**
+
+- Computer networking and network protocols
+- IoT communication using MQTT
+- Embedded systems and sensor integration
+- Cloud-connected applications
+- Software testing and defect management
+- CI/CD workflows for application projects
+
+### 🎨 Design & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github&theme=dark" alt="Design and productivity tools" />
+</p>
+
+Other tools I've worked with include **Android Studio, Apache NetBeans, Postman, Jira, and TAS360**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Featured Project
+
+### 🌱 SmartGreen — Smart Greenhouse Management System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Project-IoT%20%7C%20Edge%20Computing-238636?style=for-the-badge" alt="IoT project" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-58A6FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-8957E5?style=for-the-badge" alt="Machine learning" />
 </p>
 
-<div align="center">
-  <h4>Tools & IDEs</h4>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/></code>
-<code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans"/></code>
-<code><img width="50px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/></code>
-<code><img width="50px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"/></code>
-<code><img width="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg" alt="Cisco" style="background:#1BA0D7; border-radius:10px; padding:5px;"/></code>
-</div>
+A smart greenhouse project designed to combine environmental monitoring, automated control, and intelligent plant analysis.
+
+**Key components**
+
+- 📡 **IoT sensing:** ESP32-based environmental data collection
+- 🔄 **Messaging:** MQTT communication through HiveMQ Cloud
+- 🖥️ **Edge computing:** Orange Pi-based local processing and automation
+- 📱 **Mobile application:** Flutter interface for monitoring and control
+- 🤖 **Machine learning:** Plant disease detection and fruit analysis
+- 🌿 **Automation:** Control of irrigation, ventilation, misting, and lighting
+
+**Technologies:** Flutter, Dart, ESP32, MQTT, HiveMQ Cloud, Orange Pi, Python, and machine learning.
+
+<p align="center">
+  <i>Exploring how connected devices and intelligent systems can support smarter agriculture.</i>
+</p>
+
+> 📌 Add your SmartGreen repository link here when the project repository is public.
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 Quality Assurance & Testing
+
+My internship experience introduced me to software quality assurance in a professional environment.
+
+- Test case preparation, review, and execution
+- User Acceptance Testing (UAT)
+- Defect reporting and tracking using Jira
+- Test evidence collection and result verification
+- Regression testing and retesting
+- Collaboration with developers, testers, and cross-functional teams
+
+I value attention to detail, clear documentation, and systematic problem-solving when testing software.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaya-wickramaarachchi&show_icons=true&theme=tokyonight&hide_border=true" width="750px"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaya-wickramaarachchi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaya-wickramaarachchi&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used programming languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amaya-wickramaarachchi&theme=dracula&column=8&margin-w=10"/>
+  <img src="https://streak-stats.demolab.com?user=amaya-wickramaarachchi&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaya-wickramaarachchi&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaya-wickramaarachchi&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amaya-wickramaarachchi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" />
+</p>
+
+---
+
+## 🌱 Currently Growing
+
+```text
+[+] Mobile application development
+[+] Networking and connected systems
+[+] IoT and edge computing
+[+] Software quality assurance
+[+] Cloud technologies and automation
+```
+
+I'm always interested in learning new technologies, improving my development workflow, and collaborating with people who enjoy building useful things.
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amaya-wickramaarachchi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://github.com/amaya-wickramaarachchi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" />
   </a>
   <a href="mailto:amaya.wickramaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
   <a href="https://dev.to/amaya-wickramaarachchi">
-    <img src="https://img.shields.io/badge/DEV.to-Read%20My%20Blog-black?style=for-the-badge&logo=devdotto"/>
+    <img src="https://img.shields.io/badge/Read_My_DEV_Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV articles" />
   </a>
 </p>
 
 ---
 
-## 💡 Fun Facts
+<p align="center">
+  <i>"Great things are done by a series of small things brought together."</i>
+  <br />
+  <sub>— Vincent van Gogh</sub>
+</p>
 
-- ⚡ Love solving problems and exploring new technologies
-- 🎨 UI/UX enthusiast who enjoys creative prototyping and design thinking
-- 🤝 Always open to collaborations and innovative ideas
-- 🌱 Currently learning: Cloud Networking & Advanced Mobile App Development
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amaya-wickramaarachchi&label=Profile%20Visitors&color=58A6FF&style=flat-square" alt="Profile visitor counter" />
+</p>
 
----
-
-> _“The best way to predict the future is to invent it.”_ – Alan Kay  
+<p align="center">
+  <b>Thanks for stopping by! 💙</b>
+  <br />
+  <sub>Keep learning. Keep building. Keep exploring. 🚀</sub>
+</p>
